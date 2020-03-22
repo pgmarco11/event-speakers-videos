@@ -1,0 +1,18 @@
+/**ADMIN STYLES**/
+.event_page_info .margin, .event_speaker .margin {
+margin: 10px;
+}
+
+.event_page_info div label, .event_speaker div label {
+width: 100px;
+float: left;
+}
+
+.req {
+    bottom: 5px;
+    color: red;
+    left: 5px;
+    position: relative;
+}
+
+.bold { font-weight:600; }
