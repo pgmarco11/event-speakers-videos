@@ -1,2 +1,2 @@
 # tribe-event-videos-speakers
-Add Speakers and Videos to the Event Calendar Plugin
+Legacy plugin to Add Speakers and Videos to the Event Calendar Plugin
