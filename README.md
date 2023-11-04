@@ -1,2 +1,2 @@
 # event-speakers-videos
-plugin to Add Speakers and Videos to a specific event in the Event Calendar Plugin
+A plug-in to add speakers and videos to a specific event in the Event Calendar plug-in.
